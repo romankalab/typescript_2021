@@ -1,2 +1,4 @@
-const message: string = 'Hello Appslab 2020!';
-console.log(message);
+let a =2;
+let b = 3;
+let c = 4;
+console.log(a+b+c);
